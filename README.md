@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EliCez0410
+- 👋 Hi, I’m @Eli.jah
 - 👀 I’m interested in playing guitar, coding, and editing videos and pictures
 - 🌱 I’m currently learning HTML, CSS, JavaScript and how to edit properly on Da Vinci Resolve
 
